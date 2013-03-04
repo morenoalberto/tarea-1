@@ -23,7 +23,7 @@ using System:
 				Console.WriteLine ("Escribe Tu Domicilio");
 				persona.domicilio = Console.ReadLine ();
 				
-				Console.WriteLine ("Tus Datos son");
+				Console.WriteLine ("Tus Datos personales);
 				Console.WriteLine ("Nombre: "+ persona.nombre);
 				Console.WriteLine ("Telefono: "+persona.telefono);
 				Console.WriteLine ("Emai: "+persona.email);
